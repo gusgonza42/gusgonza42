@@ -66,7 +66,7 @@
         <img alt="Born2beRoot" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_01_born2beroot_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/gusgonza42/ft_printf">
-        <img alt="ft_printf" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badges-42/badge_01_ft_printf_500px.png" width="150" height="150">
+        <img alt="ft_printf" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_01_ft_printf_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/gusgonza42/get_next_line">
         <img alt="get_next_line" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_01_get_next_line_500px.png" width="150" height="150">
