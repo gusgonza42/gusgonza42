@@ -60,19 +60,19 @@
 <h2>42 Barcelona</h2>
 <div align="center">
     <a href="https://github.com/gusgonza42/Libft">
-        <img alt="Libft" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badge_00_libft_500px.png" width="150" height="150">
+        <img alt="Libft" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_00_libft_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/gusgonza42/Born2beRoot">
-        <img alt="Born2beRoot" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badges-42/badge_01_born2beroot_500px.png" width="150" height="150">
+        <img alt="Born2beRoot" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_01_born2beroot_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/gusgonza42/ft_printf">
         <img alt="ft_printf" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badges-42/badge_01_ft_printf_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/gusgonza42/get_next_line">
-        <img alt="get_next_line" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badges-42/badge_01_get_next_line_500px.png" width="150" height="150">
+        <img alt="get_next_line" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_01_get_next_line_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/gusgonza42/exam-rank02">
-        <img alt="exam-rank02" src="https://raw.githubusercontent.com/yowcloud/yowcloud-my-utils/main/badges-42/badge_02_exam_rank_02_500px.png" width="150" height="150">
+        <img alt="exam-rank02" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_02_exam_rank_02_500px.png" width="150" height="150">
     </a>
   
 </div>
@@ -83,9 +83,9 @@
 
 | Circle | Language | Project       | Description | Status    |
 | ------ | -------- | ------------- | ----------- | --------- |
-| 0      | ![Libft top language](https://img.shields.io/github/languages/top/yowcloud/Libft?style=flat-square) | [Libft](https://github.com/gusgonza42/Libft)         | A library containing various custom C functions, created as a foundational project for the 42 curriculum.       | [![gusgonza's 42 Libft Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3469004)](https://github.com/Coday-meric/badge42) |
-| 1      | ![Born2beRoot top language](https://img.shields.io/github/languages/top/yowcloud/Born2beRoot?style=flat-square) | [Born2beRoot](https://github.com/gusgonza42/Born2beRoot)   | A system administration project focused on configuring and securing a virtual machine running a basic web server.       | [![gusgonza's 42 Born2beroot Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3550295)](https://github.com/Coday-meric/badge42) |
-| 1      | ![ft_printf top language](https://img.shields.io/github/languages/top/yowcloud/ft_printf?style=flat-square) | [ft_printf](https://github.com/yowcloud/ft_printf)     | An implementation of the printf function in C, allowing formatted output to various streams.        | [![gusgonza's 42 ft_printf Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3550838)](https://github.com/Coday-meric/badge42) |
+| 0      | ![Libft top language](https://img.shields.io/github/languages/top/gusgonza42/Libft?style=flat-square) | [Libft](https://github.com/gusgonza42/Libft)         | A library containing various custom C functions, created as a foundational project for the 42 curriculum.       | [![gusgonza's 42 Libft Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3469004)](https://github.com/Coday-meric/badge42) |
+| 1      | ![Born2beRoot top language](https://img.shields.io/github/languages/top/gusgonza42/Born2beRoot?style=flat-square) | [Born2beRoot](https://github.com/gusgonza42/Born2beRoot)   | A system administration project focused on configuring and securing a virtual machine running a basic web server.       | [![gusgonza's 42 Born2beroot Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3550295)](https://github.com/Coday-meric/badge42) |
+| 1      | ![ft_printf top language](https://img.shields.io/github/languages/top/gusgonza42/ft_printf?style=flat-square) | [ft_printf](https://github.com/yowcloud/ft_printf)     | An implementation of the printf function in C, allowing formatted output to various streams.        | [![gusgonza's 42 ft_printf Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3550838)](https://github.com/Coday-meric/badge42) |
 | 1      | ![get_next_line top language](https://img.shields.io/github/languages/top/gusgonza42/get_next_line?style=flat-square) | [get_next_line](https://github.com/gusgonza42/get_next_line) | A function designed to read a line from a file descriptor, useful for parsing files or streams line by line.   | [![gusgonza's 42 get_next_line Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3550839)](https://github.com/Coday-meric/badge42) |
 
 </details>
