@@ -59,7 +59,10 @@
 
 <h2>42 Barcelona</h2>
 <div align="center">
-    <a href="https://github.com/gusgonza42/Libft">
+  <a href="https://github.com/gusgonza42/42-Barcelona">
+        <img alt="common-core" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_00_common_core_500px.png" width="150" height="150">
+    </a>  
+  <a href="https://github.com/gusgonza42/Libft">
         <img alt="Libft" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_00_libft_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/gusgonza42/Born2beRoot">
@@ -74,6 +77,16 @@
     <a href="https://github.com/gusgonza42/exam-rank02">
         <img alt="exam-rank02" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_02_exam_rank_02_500px.png" width="150" height="150">
     </a>
+    <a href="https://github.com/gusgonza42/fractol">
+        <img alt="fractool" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_02_fractol_500px.png" width="150" height="150">
+    </a>
+    <a href="https://github.com/gusgonza42/push-swap">
+        <img alt="push-swap" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_02_push_swap_500px.png" width="150" height="150">
+    </a>
+    <a href="https://github.com/gusgonza42/pipex">
+        <img alt="pipex" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_02_pipex_500px.png" width="150" height="150">
+    </a>
+    
   
 </div>
 
