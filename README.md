@@ -77,7 +77,7 @@
     <a href="https://github.com/gusgonza42/exam-rank02">
         <img alt="exam-rank02" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_02_exam_rank_02_500px.png" width="150" height="150">
     </a>
-    <a href="https://github.com/gusgonza42/fractol">
+    <a href="https://github.com/gusgonza42/fract-ol">
         <img alt="fractool" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_02_fractol_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/gusgonza42/push_swap">
