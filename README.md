@@ -80,7 +80,7 @@
     <a href="https://github.com/gusgonza42/fractol">
         <img alt="fractool" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_02_fractol_500px.png" width="150" height="150">
     </a>
-    <a href="https://github.com/gusgonza42/push-swap">
+    <a href="https://github.com/gusgonza42/push_swap">
         <img alt="push-swap" src="https://raw.githubusercontent.com/gusgonza42/my-utils-gusgonza/main/ft_badges_42/badge_02_push_swap_500px.png" width="150" height="150">
     </a>
     <a href="https://github.com/gusgonza42/pipex">
